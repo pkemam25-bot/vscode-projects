@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# Excel backup files
+*.xlsm
+*.xltm
+*.xltx
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Byte-compiled
+*.pyc
+
+# Distribution
+*.egg
+*.whl
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
