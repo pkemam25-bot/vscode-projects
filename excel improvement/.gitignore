@@ -1,7 +1,10 @@
-# Generated Excel backups (kept locally for safety)
+# Excel backup files
 *backup*.xlsx
+*.xlsm
+*.xltm
+*.xltx
 
-# Local scratch/backup folder
+# Local backup folder
 bk/
 
 # Python cache
