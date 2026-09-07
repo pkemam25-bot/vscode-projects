@@ -1,0 +1,383 @@
+Workbook: excel improvement/Project Information.xlsx
+Sheets (14): Resource Plan, Maintain List, FTE Plan - revise (bk1), FTE Plan - revise (bk2), Q&A, FTE Plan - revise, FTE Plan - revise(bk 20260417), Project Plan (bk1), FTE Plan - revise (3) 20260424), Project Plan, Project Plan (2), Project Plan (BK2), Risk Issue, FTE Plan - revise2
+============================================================
+
+--- Sheet 'Resource Plan' ---
+D8=Project Information
+D10=Project Name : | F10=S1 AI Advisory | J10=Project Manager Name : | M10=Parinya Kamnoed
+D12=Project ID : | F12=<Project ID> | J12=Initiative Lead (IL) Name :
+D14=Project Start Date : | F14=45778 | J14=Digital Line Partner Name :
+D16=Project End Date : | F16=46507 | J16=Product / Platform Owner Name : | M16=Thapanic Khukhantin
+D18=Resource Plan
+D20=No. | E20=Role | F20=Ranking | G20=Level | H20=Area | I20=Tentative Member Name | J20=Assignment Start Date | K20=Assignment End Date | L20=Assignment (% per month) | M20=Remark
+
+--- Sheet 'Maintain List' ---
+B3=Role | D3=Ranking | F3=Area
+B4=Analyst | D4=Assistant Officer | F4=Application
+B5=Back End | D5=Officer | F5=Data
+B6=Business Analyst | D6=Senior Officer | F6=AI
+B7=Data Analyst | D7=Manager
+B8=Data and Enterprise Architect
+B9=Data Architecture & Engineering
+B10=Data Engineering
+B11=Data Management Support
+B12=Data Scientist
+B13=Devops
+B14=Enterprise Solution
+B15=Enterprise Solution & App Dev
+B16=Front End
+B17=Machine Learning Engineer
+B18=Quality Assurance
+B19=Senior Devops
+B20=Software Developer
+B21=UX/UI
+B22=Scrum Master
+
+--- Sheet 'FTE Plan - revise (bk1)' ---
+B2=As of 20 Feb 2026 | C2=FTE Assessment - As of 20 Feb 2026
+B3=ITPM Validation | C3=Project group | D3=Group | E3=Vendor | F3=Position | G3=Level | H3=Member | I3=Nickname | J3=Project/Note | K3=Reviewer | L3=45683 | M3=45714 | N3=45742 | O3=45773 | P3=45803 | Q3=45834 | R3=45864 | S3=45895 | T3=45926 | U3=45956 | V3=45987 | W3=46017
+C4=Production Asset | F4=IT Project Manager | G4=Senior | H4=Parinya Kamnoed | I4=Chaii | J4=S1 AI Advisory | K4=Navapol M. | M4=0.1 | N4=0.2 | O4=0.2 | P4=0.2 | Q4=0.2 | R4=0.2 | S4=0.2 | T4=0.2 | U4=0.2 | V4=0.2 | W4=0.2
+C5=Production Asset | F5=Data Architect | H5=Pongsakorn Lekpojai | I5=Bank | J5=S1 AI Advisory | N5=0.2 | O5=0.2
+C6=Production Asset | F6=Data Science | H6=Wiriya Thienthanukit | I6=Mickey | J6=S1 AI Advisory | N6=0.7 | O6=0.7 | P6=0.7 | Q6=0.7 | R6=0.5 | S6=0.5 | T6=0.5 | U6=0.5 | V6=0.5 | W6=0.5
+C7=Production Asset | F7=Data Science | H7=Kantkanit Watanakun | I7=Punn | J7=S1 AI Advisory | L7=0.1 | M7=0.1 | N7=0.1 | O7=0.1 | P7=0.1 | Q7=0.1 | R7=0.1 | S7=0.1 | T7=0.1 | U7=0.1 | V7=0.1 | W7=0.1
+C8=Production Asset | F8=ML Engineer  | H8=Siwa Boonpunmongkol | I8=Jui | J8=S1 AI Advisory | M8=0.2 | N8=0.2 | O8=0.2 | P8=0.2 | Q8=0.2 | R8=0.2 | S8=0.2 | T8=0.2 | U8=0.2 | V8=0.2 | W8=0.2
+C9=Production Asset | F9=Data Analyst | H9=Cholnisa Bhonprasit | I9=Bom+ | J9=S1 AI Advisory | N9=0.1 | O9=0.1 | Q9=0.05 | R9=0.05 | S9=0.05 | T9=0.05 | U9=0.05 | V9=0.05 | W9=0.05
+F10=IT Infrastructure | H10=Pool Resource | J10=S1 AI Advisory
+F11=IT Cyber Security | H11=Pool Resource | J11=S1 AI Advisory
+L13=0.1 | M13=0.4 | N13=1.5000000000000002 | O13=1.5000000000000002 | P13=1.2 | Q13=1.25 | R13=1.05 | S13=1.05 | T13=1.05 | U13=1.05 | V13=1.05 | W13=1.05
+C15=Original - need to revised with team
+
+--- Sheet 'FTE Plan - revise (bk2)' ---
+C2=FTE Assessment - As of 17 Apr 2026 (after team estimation)
+C3=Project | D3=Business Domain | E3=Position | F3=Name | G3=Nickname | H3=Nick Name | I3=Vendor | J3=Jan'26 | K3=Feb'26 | L3=Mar'26 | M3=Apr'26 | N3=May'26 | O3=Jun'26 | P3=Jul'26 | Q3=Aug'26 | R3=Sep'26 | S3=Oct'26 | T3=Nov'26 | U3=Dec'26
+C4=S1 AI advisory flowline back pressure optimization | D4=Production | E4=ITPM | F4=Parinya Kamnoed | G4=Chaii | H4=Chaii | I4=EPAM | J4=0 | K4=0.1 | L4=0.2 | M4=0.2 | N4=0.2 | O4=0.2 | P4=0.2 | Q4=0.2 | R4=0.2 | S4=0.2 | T4=0.2 | U4=0.2
+C5=S1 AI advisory flowline back pressure optimization | D5=Production | E5=Data Scientist | F5=Wiriya Thienthanukit | G5=Micky | H5=Mickey | I5=PTTEP | J5=0 | K5=0 | L5=0.5 | M5=0.5 | N5=0.5 | O5=0.5 | P5=0.5 | Q5=0.5 | R5=0.5 | S5=0.5 | T5=0.5 | U5=0.5
+C6=S1 AI advisory flowline back pressure optimization | D6=Production | E6=Data Scientist | F6=Ami Toyoda | G6=Meen | H6=Meen | I6=The Gang | J6=0 | K6=0 | L6=1 | M6=1 | N6=1 | O6=1 | P6=1 | Q6=1 | R6=1 | S6=1 | T6=1 | U6=1
+C7=S1 AI advisory flowline back pressure optimization | D7=Production | E7=Data Scientist | F7=TBC | G7=#N/A | J7=0 | K7=0 | L7=0 | M7=0 | N7=0 | O7=0 | P7=0 | Q7=1 | R7=1 | S7=1 | T7=1 | U7=1 | V7=ไม่ต้องแล้ว
+C8=S1 AI advisory flowline back pressure optimization | D8=Production | E8=Data Engineer | F8=TBC | G8=#N/A | J8=0 | K8=0 | L8=1 | M8=1 | N8=1 | O8=0 | P8=0 | Q8=0 | R8=0 | S8=0 | T8=0 | U8=0
+C9=S1 AI advisory flowline back pressure optimization | D9=Production | E9=Data Architect | F9=Pongsakorn Lekpojai | G9=Bank | H9=Bank | I9=PTTEP | J9=0 | K9=0 | L9=0.2 | M9=0.2 | N9=0 | O9=0 | P9=0 | Q9=0 | R9=0 | S9=0 | T9=0 | U9=0
+C10=S1 AI advisory flowline back pressure optimization | D10=Production | E10=Machine Learning Engineer | F10=Siwa Boonpunmongkol | G10=Jui | H10=Jui | I10=PTTEP | J10=0 | K10=0.2 | L10=0.2 | M10=0.2 | N10=0.2 | O10=0.2 | P10=0.2 | Q10=0.2 | R10=0.2 | S10=0.2 | T10=0.2 | U10=0.20  
+C11=S1 AI advisory flowline back pressure optimization | D11=Production | E11=Data Analytics Services | F11=Cholnisa Bhonprasit | G11=Bom+ | H11=Bom+ | I11=PTTEP | J11=0 | K11=0 | L11=0.1 | M11=0.1 | N11=0 | O11=0.05 | P11=0.05 | Q11=0.05 | R11=0.05 | S11=0.05 | T11=0.05 | U11=0.05  
+J12=0 | K12=0.30000000000000004 | L12=3.2000000000000006 | M12=3.2000000000000006 | N12=2.9000000000000004 | O12=1.95 | P12=1.95 | Q12=2.95 | R12=2.95 | S12=2.95 | T12=2.95 | U12=2.7
+
+--- Sheet 'Q&A' ---
+A1=No. | B1=Question | C1=Alignment
+A2=1 | B2=batch / ingest / frequency per day/month? | C2=+ never ingest, Direct retrieve (2025) | GCP (2026), check iPOS phase 1 for data
++ PI to GCP need to validate more discus PI Server
++ no need to build model for DS
++ frequency followint data flow diagram
++ output -> text file (sharepoint): need human approve -> well test team load to P2 (ipos connect P2)
+A3=2 | B3=data from PI real time or not ? | C3=+ PI on Prem to PI GCP
++ check data pipeline from existing iPOS 1/2, concern Name - summary separate project
++ data engineer - > use data analyst instead
++ adding Tag require K.Kate (Suwanna product owner PI) - contact by DS | Pre-requitsite: tag name and more details
+A4=3 | B4=clarify DE start before DS? | C4=+ don't need DE effort
+A5=4 | B5=end of dec 2026, the project is still continue? | C5=+ plan to complete 120 well Oct, actuallly total 150-160 end Dec ->> KPI
+A6=5 | B6=which selection Well for group1 and group2 deployment? | C6=+ POC 10 well aready
++ month 6 = 25 well,
++ month 10 = 120 well  (26-120 well faster)
+A7=6 | B7=ML pipeline | C7=Only keep file on SharePoint check by  human
+A8=7 | B8=System Architecture and Data Architecture | C8=Revised again after Gate 3, before Solar
+A9=8 | B9=Resource DA | C9=Just standby follow FTE sheet, mainly DS (Mickey) is the key person togather Requirement
+
+--- Sheet 'FTE Plan - revise' ---
+C2=FTE Assessment - As of 17 Apr 2026 (after team estimation)
+C3=Project | D3=Business Domain | E3=Position | F3=Name | G3=Nickname | H3=Nick Name | I3=Vendor | J3=Jan'26 | K3=Feb'26 | L3=Mar'26 | M3=Apr'26 | N3=May'26 | O3=Jun'26 | P3=Jul'26 | Q3=Aug'26 | R3=Sep'26 | S3=Oct'26 | T3=Nov'26 | U3=Dec'26
+C4=S1 AI advisory flowline back pressure optimization | D4=Production | E4=ITPM | F4=Parinya Kamnoed | G4=Chaii | H4=Chaii | I4=EPAM | J4=0 | K4=0.1 | L4=0.2 | M4=0.2 | N4=0.2 | O4=0.2 | P4=0.2 | Q4=0.2 | R4=0.2 | S4=0.2 | T4=0.2 | U4=0.2
+C5=S1 AI advisory flowline back pressure optimization | D5=Production | E5=Data Scientist | F5=Wiriya Thienthanukit | G5=Micky | H5=Mickey | I5=PTTEP | J5=0 | K5=0 | L5=0.5 | M5=0.5 | N5=0.5 | O5=0.5 | P5=0.5 | Q5=0.5 | R5=0.5 | S5=0.5 | T5=0.5 | U5=0.5
+C6=S1 AI advisory flowline back pressure optimization | D6=Production | E6=Data Scientist | F6=Ami Toyoda | G6=Meen | H6=Meen | I6=The Gang | J6=0 | K6=0 | L6=1 | M6=1 | N6=0.5 | O6=0.5 | P6=1 | Q6=1 | R6=1 | S6=1 | T6=1 | U6=1
+C7=S1 AI advisory flowline back pressure optimization | D7=Production | E7=Data Scientist | F7=TBC | G7=#N/A | J7=0 | K7=0 | L7=0 | M7=0 | N7=0 | O7=0 | P7=0 | Q7=1 | R7=1 | S7=1 | T7=1 | U7=1 | V7=ไม่ต้องแล้ว
+C8=S1 AI advisory flowline back pressure optimization | D8=Production | E8=Data Engineer | F8=TBC | G8=#N/A | J8=0 | K8=0 | L8=1 | M8=1 | N8=1 | O8=0 | P8=0 | Q8=0 | R8=0 | S8=0 | T8=0 | U8=0
+C9=S1 AI advisory flowline back pressure optimization | D9=Production | E9=Data Architect | F9=Pongsakorn Lekpojai | G9=Bank | H9=Bank | I9=PTTEP | J9=0 | K9=0 | L9=0.2 | M9=0.2 | N9=0 | O9=0 | P9=0 | Q9=0 | R9=0 | S9=0 | T9=0 | U9=0
+C10=S1 AI advisory flowline back pressure optimization | D10=Production | E10=Machine Learning Engineer | F10=Siwa Boonpunmongkol | G10=Jui | H10=Jui | I10=PTTEP | J10=0 | K10=0 | L10=0.2 | M10=0.2 | N10=0.2 | O10=0.2 | P10=0.2 | Q10=0.2 | R10=0.2 | S10=0.2 | T10=0.2 | U10=0.20  
+C11=S1 AI advisory flowline back pressure optimization | D11=Production | E11=Data Analytics Services | F11=Cholnisa Bhonprasit | G11=Bom+ | H11=Bom+ | I11=PTTEP | J11=0 | K11=0 | L11=0.1 | M11=0.1 | N11=0 | O11=0.05 | P11=0.05 | Q11=0.05 | R11=0.05 | S11=0.05 | T11=0.05 | U11=0.05  
+J12=0 | K12=0.1 | L12=3.2000000000000006 | M12=3.2000000000000006 | N12=2.4000000000000004 | O12=1.45 | P12=1.95 | Q12=2.95 | R12=2.95 | S12=2.95 | T12=2.95 | U12=2.7
+
+--- Sheet 'FTE Plan - revise(bk 20260417)' ---
+C2=FTE Assessment - As of 06 Mar 2026
+C3=Project | D3=Business Domain | E3=Position | F3=Name | G3=Nickname | H3=Nick Name | I3=Vendor | J3=Jan'26 | K3=Feb'26 | L3=Mar'26 | M3=Apr'26 | N3=May'26 | O3=Jun'26 | P3=Jul'26 | Q3=Aug'26 | R3=Sep'26 | S3=Oct'26 | T3=Nov'26 | U3=Dec'26
+C4=S1 AI advisory flowline back pressure optimization | D4=Production | E4=ITPM | F4=Parinya Kamnoed | G4=Chaii | H4=Chaii | I4=EPAM | J4=0 | K4=0.1 | L4=0.2 | M4=0.2 | N4=0.2 | O4=0.2 | P4=0.2 | Q4=0.2 | R4=0.2 | S4=0.2 | T4=0.2 | U4=0.2
+C5=S1 AI advisory flowline back pressure optimization | D5=Production | E5=Data Scientist | F5=Wiriya Thienthanukit | G5=Micky | H5=Mickey | I5=PTTEP | J5=0 | K5=0 | L5=0.5 | M5=0.5 | N5=0.5 | O5=0.5 | P5=0.5 | Q5=0.5 | R5=0.5 | S5=0.5 | T5=0.5 | U5=0.5
+C6=S1 AI advisory flowline back pressure optimization | D6=Production | E6=Data Scientist | F6=Ami Toyoda | G6=Meen | H6=Meen | I6=The Gang | J6=0 | K6=0 | L6=1 | M6=1 | N6=1 | O6=1 | P6=1 | Q6=1 | R6=1 | S6=1 | T6=1 | U6=1
+C7=S1 AI advisory flowline back pressure optimization | D7=Production | E7=Data Scientist | F7=TBC | G7=#N/A | J7=0 | K7=0 | L7=0 | M7=0 | N7=0 | O7=0 | P7=0 | Q7=1 | R7=1 | S7=1 | T7=1 | U7=1
+C8=S1 AI advisory flowline back pressure optimization | D8=Production | E8=Data Engineer | F8=TBC | G8=#N/A | J8=0 | K8=0 | L8=1 | M8=1 | N8=1 | O8=0 | P8=0 | Q8=0 | R8=0 | S8=0 | T8=0 | U8=0
+C9=S1 AI advisory flowline back pressure optimization | D9=Production | E9=Data Architect | F9=Pongsakorn Lekpojai | G9=Bank | H9=Bank | I9=PTTEP | J9=0 | K9=0 | L9=0.2 | M9=0.2 | N9=0 | O9=0 | P9=0 | Q9=0 | R9=0 | S9=0 | T9=0 | U9=0
+C10=S1 AI advisory flowline back pressure optimization | D10=Production | E10=Machine Learning Engineer | F10=Siwa Boonpunmongkol | G10=Jui | H10=Jui | I10=PTTEP | J10=0 | K10=0.2 | L10=0.2 | M10=0.2 | N10=0.2 | O10=0.2 | P10=0.2 | Q10=0.2 | R10=0.2 | S10=0.2 | T10=0.2 | U10=0.20  
+C11=S1 AI advisory flowline back pressure optimization | D11=Production | E11=Data Analytics Services | F11=Cholnisa Bhonprasit | G11=Bom+ | H11=Bom+ | I11=PTTEP | J11=0 | K11=0 | L11=0.1 | M11=0.1 | N11=0 | O11=0.05 | P11=0.05 | Q11=0.05 | R11=0.05 | S11=0.05 | T11=0.05 | U11=0.05  
+J12=0 | K12=0.30000000000000004 | L12=3.2000000000000006 | M12=3.2000000000000006 | N12=2.9000000000000004 | O12=1.95 | P12=1.95 | Q12=2.95 | R12=2.95 | S12=2.95 | T12=2.95 | U12=2.7
+
+--- Sheet 'Project Plan (bk1)' ---
+A1=Actual | B1=x % | C1=Start: | D1=46023 | F1=Start | G1=46027
+A2=Plan | B2=x % | C2=End: | D2=46357 | F2=...In Progress... | I2=Link:  | J2=SOR Document
+F3=Year 2026
+AA4=46202 | AF4=46230 | AJ4=46265 | AO4=46293 | AS4=46321 | AW4=46356 | BB4=46384 | F4=46037 | J4=46076 | N4=46111 | S4=46139 | W4=46167
+A5=Project Roadmap/Timeline: [TBC with Team and Line Partner] | AA5=46174 | AB5=46181 | AC5=46188 | AD5=46195 | AE5=46202 | AF5=46209 | AG5=46216 | AH5=46223 | AI5=46230 | AJ5=46237 | AK5=46244 | AL5=46251 | AM5=46258 | AN5=46265 | AO5=46272 | AP5=46279 | AQ5=46286 | AR5=46293 | AS5=46300 | AT5=46307 | AU5=46314 | AV5=46321 | AW5=46328 | AX5=46335 | AY5=46342 | AZ5=46349 | BA5=46356 | BB5=46363 | BC5=46370 | BD5=46377 | BE5=46384 | F5=46027 | G5=46034 | H5=46041 | I5=46048 | J5=46055 | K5=46062 | L5=46069 | M5=46076 | N5=46083 | O5=46090 | P5=46097 | Q5=46104 | R5=46111 | S5=46118 | T5=46125 | U5=46132 | V5=46139 | W5=46146 | X5=46153 | Y5=46160 | Z5=46167
+A6=Main Activity | AA6=W1 | AB6=W2 | AC6=W3 | AD6=W4 | AE6=W5 | AF6=W1 | AG6=W2 | AH6=W3 | AI6=W4 | AJ6=W1 | AK6=W2 | AL6=W3 | AM6=W4 | AN6=W5 | AO6=W1 | AP6=W2 | AQ6=W3 | AR6=W4 | AS6=W1 | AT6=W2 | AU6=W3 | AV6=W4 | AW6=W1 | AX6=W2 | AY6=W3 | AZ6=W4 | B6=Sub Activity | BA6=W5 | BB6=W1 | BC6=W2 | BD6=W3 | BE6=W4 | C6=Duration  | D6=Role | E6=% Progress | F6=W1 | G6=W2 | H6=W3 | I6=W4 | J6=W1 | K6=W2 | L6=W3 | M6=W4 | N6=W1 | O6=W2 | P6=W3 | Q6=W4 | R6=W5 | S6=W1 | T6=W2 | U6=W3 | V6=W4 | W6=W1 | X6=W2 | Y6=W3 | Z6=W4
+A7=Gather Requirement & Design | C7=1 months | D7=DA(main), DArch
+B8=Consolidate Requirement (data requirement, KPI, etc.)
+B9=Design architecture
+B10=SOLAR + ARB
+A11=[Full scale] Data preparation | C11=3 months | D11=DE(main), DA
+B12=Prepare data, sharing and permission
+A14=[Full scale] ML model development | C14=10 months | D14=DS, ML
+B15=Model development
+B16=ML inference/prediction pipeline development
+AI17=♦️ | B17=Deployment Group 1
+B18=User feedback/improvement Group 1
+B19=Deployment Group 2 | BC19=♦️
+B20=User feedback/improvement Group 2
+A22=UAT & Model adoption to input IPOS | C22=4 months | D22=DA, DS, ML
+B23=Technical Integration: API (GCP to IPOS)
+B24=Verification: Results vs. hub separators
+B25=Go-Live | BE25=♦️
+B26=Handover: Final manuals and training | BE26=♦️
+A28=Post-golive | C28=Start at lease 3 months | D28=TBC
+B29=Advisory Ops: Real-time ON/OFF recommendations
+B30=Maintenance: Automated retraining loops
+B31=Cyclic Optimization
+D33=milestone | E33=♦️ | F33=Note:
+A34=Note: | F34=Holiday Note | J34=Risk/Issue | M34=Deliverable. | Q34=Question: | U34=Repository
+A35=04/02/26 - SOR Highlivel Requirement latest alignment      | F35=1 | G35=xxx | M35=1 xxxx | Q35=end goal???
+F36=1 | G36=xxx | M36=2 trouble shoot
+A37=Original - need to revise with team | F37=3 | G37=xxx
+F38=4 | G38=xxx
+
+--- Sheet 'FTE Plan - revise (3) 20260424)' ---
+C2=FTE Assessment - As of 17 Apr 2026 (after team estimation)
+C3=Project | D3=Business Domain | E3=Position | F3=Name | G3=Nickname | H3=Nick Name | I3=Vendor | J3=Jan'26 | K3=Feb'26 | L3=Mar'26 | M3=Apr'26 | N3=May'26 | O3=Jun'26 | P3=Jul'26 | Q3=Aug'26 | R3=Sep'26 | S3=Oct'26 | T3=Nov'26 | U3=Dec'26
+C4=S1 AI advisory flowline back pressure optimization | D4=Production | E4=ITPM | F4=Parinya Kamnoed | G4=Chaii | H4=Chaii | I4=EPAM | J4=0 | K4=0.1 | L4=0.2 | M4=0.2 | N4=0.2 | O4=0.2 | P4=0.2 | Q4=0.2 | R4=0.2 | S4=0.2 | T4=0.2 | U4=0.2
+C5=S1 AI advisory flowline back pressure optimization | D5=Production | E5=Data Scientist | F5=Wiriya Thienthanukit | G5=Micky | H5=Mickey | I5=PTTEP | J5=0 | K5=0 | L5=0.5 | M5=0.5 | N5=0.5 | O5=0.5 | P5=0.5 | Q5=0.5 | R5=0.5 | S5=0.5 | T5=0.5 | U5=0.5
+C6=S1 AI advisory flowline back pressure optimization | D6=Production | E6=Data Scientist | F6=Ami Toyoda | G6=Meen | H6=Meen | I6=The Gang | J6=0 | K6=0 | L6=1 | M6=1 | N6=1 | O6=1 | P6=1 | Q6=1 | R6=1 | S6=1 | T6=1 | U6=1
+C7=S1 AI advisory flowline back pressure optimization | D7=Production | E7=Data Scientist | F7=TBC | G7=#N/A | J7=0 | K7=0 | L7=0 | M7=0 | N7=0 | O7=0 | P7=0 | Q7=1 | R7=1 | S7=1 | T7=1 | U7=1 | V7=ไม่ต้องแล้ว
+C8=S1 AI advisory flowline back pressure optimization | D8=Production | E8=Data Engineer | F8=TBC | G8=#N/A | J8=0 | K8=0 | L8=1 | M8=1 | N8=1 | O8=0 | P8=0 | Q8=0 | R8=0 | S8=0 | T8=0 | U8=0
+C9=S1 AI advisory flowline back pressure optimization | D9=Production | E9=Data Architect | F9=Pongsakorn Lekpojai | G9=Bank | H9=Bank | I9=PTTEP | J9=0 | K9=0 | L9=0.2 | M9=0.2 | N9=0 | O9=0 | P9=0 | Q9=0 | R9=0 | S9=0 | T9=0 | U9=0
+C10=S1 AI advisory flowline back pressure optimization | D10=Production | E10=Machine Learning Engineer | F10=Siwa Boonpunmongkol | G10=Jui | H10=Jui | I10=PTTEP | J10=0 | K10=0 | L10=0.2 | M10=0.2 | N10=0.2 | O10=0.2 | P10=0.2 | Q10=0.2 | R10=0.2 | S10=0.2 | T10=0.2 | U10=0.20  
+C11=S1 AI advisory flowline back pressure optimization | D11=Production | E11=Data Analytics Services | F11=Cholnisa Bhonprasit | G11=Bom+ | H11=Bom+ | I11=PTTEP | J11=0 | K11=0 | L11=0.1 | M11=0.1 | N11=0 | O11=0.05 | P11=0.05 | Q11=0.05 | R11=0.05 | S11=0.05 | T11=0.05 | U11=0.05  
+J12=0 | K12=0.1 | L12=3.2000000000000006 | M12=3.2000000000000006 | N12=2.9000000000000004 | O12=1.95 | P12=1.95 | Q12=2.95 | R12=2.95 | S12=2.95 | T12=2.95 | U12=2.7
+
+--- Sheet 'Project Plan' ---
+A1=Actual | B1=0.62888888888888894 | BH1=♦️[25 Dec] Handover | G1=Start: | H1=46083 | I1=Start | J1=46027 | M1=Current Week | S1=Revised
+A2=Plan | AH2=♦️[30 Jun]  Group 1: 25 Wells | AY2=♦️[30 Oct]  Group 2: 26 - 120 Wells | B2=0.55799373040752354 | BF2=♦️[14 Dec]  Group 3: 121 - 160 Wells | G2=End: | H2=46383 | L2=Link:  | M2=SOR Document
+A3=*count progress to handover | BI3=Year 2027 | I3=Year 2026
+AD4=46202 | AI4=46230 | AM4=46265 | AR4=46293 | AV4=46321 | AZ4=46356 | BE4=46384 | BI4=46412 | BM4=46440 | BQ4=46468 | I4=46037 | M4=46076 | Q4=46111 | V4=46139 | Z4=46167
+A5=Project Roadmap/Timeline:  | AA5=46153 | AB5=46160 | AC5=46167 | AD5=46174 | AE5=46181 | AF5=46188 | AG5=46195 | AH5=46202 | AI5=46209 | AJ5=46216 | AK5=46223 | AL5=46230 | AM5=46237 | AN5=46244 | AO5=46251 | AP5=46258 | AQ5=46265 | AR5=46272 | AS5=46279 | AT5=46286 | AU5=46293 | AV5=46300 | AW5=46307 | AX5=46314 | AY5=46321 | AZ5=46328 | BA5=46335 | BB5=46342 | BC5=46349 | BD5=46356 | BE5=46363 | BF5=46370 | BG5=46377 | BH5=46384 | BI5=46391 | BJ5=46398 | BK5=46405 | BL5=46412 | BM5=46419 | BN5=46426 | BO5=46433 | BP5=46440 | BQ5=46447 | BR5=46454 | BS5=46461 | BT5=46468 | E5=4 | I5=46027 | J5=46034 | K5=46041 | L5=46048 | M5=46055 | N5=46062 | O5=46069 | P5=46076 | Q5=46083 | R5=46090 | S5=46097 | T5=46104 | U5=46111 | V5=46118 | W5=46125 | X5=46132 | Y5=46139 | Z5=46146
+A6=Main Activity | AA6=W2 | AB6=W3 | AC6=W4 | AD6=W1 | AE6=W2 | AF6=W3 | AG6=W4 | AH6=W5 | AI6=W1 | AJ6=W2 | AK6=W3 | AL6=W4 | AM6=W1 | AN6=W2 | AO6=W3 | AP6=W4 | AQ6=W5 | AR6=W1 | AS6=W2 | AT6=W3 | AU6=W4 | AV6=W1 | AW6=W2 | AX6=W3 | AY6=W4 | AZ6=W1 | B6=Sub Activity | BA6=W2 | BB6=W3 | BC6=W4 | BD6=W5 | BE6=W1 | BF6=W2 | BG6=W3 | BH6=W4 | BI6=W1 | BJ6=W2 | BK6=W3 | BL6=W4 | BM6=W1 | BN6=W2 | BO6=W3 | BP6=W4 | BQ6=W1 | BR6=W2 | BS6=W3 | BT6=W4 | C6=Start | D6=End 1 (for calculation) | E6=End | F6=Duration  | G6=% Progress | H6=Role | I6=W1 | J6=W2 | K6=W3 | L6=W4 | M6=W1 | N6=W2 | O6=W3 | P6=W4 | Q6=W1 | R6=W2 | S6=W3 | T6=W4 | U6=W5 | V6=W1 | W6=W2 | X6=W3 | Y6=W4 | Z6=W1
+A7=Gather Requirement & Design | F7=2 months | H7=DS(main), DArch
+B8=Consolidate Requirement (data requirement, KPI, etc.) | C8=46069 | D8=46090 | E8=46094 | F8=20 | G8=1
+B9=Design architecture | C9=46097 | D9=46135 | E9=46139 | F9=10 | G9=1
+B10=SOLAR + ARB | C10=46111 | D10=46118 | E10=46122 | F10=10 | G10=1
+A11=[Full scale] ML model development | F11=10 months | H11=DS, ML
+B12=Prepare data, sharing and permission | C12=46083 | D12=46167 | E12=46171 | F12=65 | G12=1
+B13=Model Development & Prediction Pipeline | C13=46083 | D13=46167 | E13=46171 | F13=65 | G13=1
+AH14=♦️ | B14=Deployment Group 1 (1-25 Wells) | C14=46174 | D14=46202 | E14=46206 | F14=25 | G14=1
+B15=User feedback/improvement Group 1 | C15=46209 | D15=46230 | E15=46234 | F15=15 | G15=1
+B16=Model Adjustment | C16=46230 | D16=46293 | E16=46297 | F16=50 | G16=1
+AY17=♦️ | B17=Deployment Group 2 (26-120 Wells) | C17=46300 | D17=46321 | E17=46325 | F17=20 | G17=0.7
+B18=User feedback/improvement Group 2 | C18=46328 | D18=46342 | E18=46346 | F18=15 | G18=0.6
+B19=Deployment The Rest Group (121-160 Wells) | BF19=♦️ | C19=46349 | D19=46370 | E19=46374 | F19=20 | G19=0
+B20=User feedback/improvement The Rest Group | C20=46377 | D20=46384 | E20=46388 | F20=10 | G20=0
+A21=Integration and Handover | F21=3 months  | H21=DA, DS, ML
+B22=IPOS Phase 2: Integration Support  | C22=46174 | D22=46244 | E22=46248 | F22=55 | G22=0
+B23=Handover: Final manuals and training | BH23=♦️ | C23=46377 | D23=46384 | E23=46388 | F23=10 | G23=0
+A24=Post-golive TBC with support team | F24=3 months | H24=OMS Support, DS
+B25=Operation Support (Tier 1, Tier 2) | C25=46026 | D25=46102 | E25=46106 | F25=60 | G25=0
+G28=Measurement  | I28=Deliverable(Overall) | N28=Ref. Task Document & Handover | V28=Post Go-Live
+AB29=Support Level | G29=Target: MAPE < 25% | I29=ML | J29=Source of data and model development | V29=Tier | W29=Document
+AB30=High Level | I30=DS | J30=Algorithm & Logic, Result (experiment/measurement e.g. MAPE, R2, MAE) | V30=Tier 1 | W30=High Level
+AB31=Technical Level | I31=*format document/wiki | V31=Tier 2 | W31=Technical Level
+I33=Integration with IPOS Phase 2
+I34=Team | J34=Action | N34=Output 
+I35=S1 AI  | J35=deploy models | N35=text files on sharepoint
+I36=User | J36=validate and upload data | N36=PDMS, GCP
+I37=IPOS | J37=integrate | N37=GCP
+I40=Deliverable: Milestone 1 - 25 Wells 
+I41=1)  | J41=Source code deployment
+I42=2)  | J42=Excel Virtual Flow Meeting (per Well per Day)
+I44=Deliverable: Milestone 2 - 26 to 120 Wells 
+I45=1)  | J45=Source code deployment
+I46=2)  | J46=Excel Virtual Flow Meeting (per Well per Day)
+I48=Deliverable: Milestone 3 - 121 to 160 Wells (TBD) 
+I49=1)  | J49=Source code deployment
+I50=2)  | J50=Excel Virtual Flow Meeting (per Well per Day)
+I52=Note:  the user is required to test each milestone [Testing->Improvement Process]
+A54=Note:
+A55=04/02/26 - SOR Highlivel Requirement latest alignment     
+A57=Original - need to revise with team
+K106=Note: will be deleted soon
+K107=output, excel and sharepoint -> validate -> P2 -> GCP
+K108=text on sharepoint | N108=S1 Team
+K109=validate -> P2 | N109=user
+K110=GCP | N110=IPOS phase 2
+K115=post golive | O115=document
+L116=1 | M116=support | O116=slide(ml: resource), (ds: algorith)
+L117=2 | M117=ds | U117=more technical
+K120=deliverable 
+M121=slide(ml: resource), (ds: algorith, wiki model exeriment)
+L122=ds | M122=algo, logic
+M123=result (KPI R2, Mape, model performance)
+
+--- Sheet 'Project Plan (2)' ---
+A1=Actual | B1=0.22500000000000003 | BE1=♦️[25 Dec] Handover | C1=Start: | D1=46083 | F1=Start | G1=46027 | J1=Current Week | P1=Revised
+A2=Plan | AE2=♦️[30 Jun]  Group 1: 25 Wells | AV2=♦️[30 Oct]  Group 2: 26 - 120 Wells | B2=0.54666666666666663 | BC2=♦️[14 Dec]  Group 3: 121 - 160 Wells | C2=End: | D2=46383 | I2=Link:  | J2=SOR Document
+BF3=Year 2027 | F3=Year 2026
+AA4=46202 | AF4=46230 | AJ4=46265 | AO4=46293 | AS4=46321 | AW4=46356 | BB4=46384 | BF4=46412 | BJ4=46440 | BN4=46468 | F4=46037 | J4=46076 | N4=46111 | S4=46139 | W4=46167
+A5=Project Roadmap/Timeline: As of 20 Feb 2026 | AA5=46174 | AB5=46181 | AC5=46188 | AD5=46195 | AE5=46202 | AF5=46209 | AG5=46216 | AH5=46223 | AI5=46230 | AJ5=46237 | AK5=46244 | AL5=46251 | AM5=46258 | AN5=46265 | AO5=46272 | AP5=46279 | AQ5=46286 | AR5=46293 | AS5=46300 | AT5=46307 | AU5=46314 | AV5=46321 | AW5=46328 | AX5=46335 | AY5=46342 | AZ5=46349 | BA5=46356 | BB5=46363 | BC5=46370 | BD5=46377 | BE5=46384 | BF5=46391 | BG5=46398 | BH5=46405 | BI5=46412 | BJ5=46419 | BK5=46426 | BL5=46433 | BM5=46440 | BN5=46447 | BO5=46454 | BP5=46461 | BQ5=46468 | F5=46027 | G5=46034 | H5=46041 | I5=46048 | J5=46055 | K5=46062 | L5=46069 | M5=46076 | N5=46083 | O5=46090 | P5=46097 | Q5=46104 | R5=46111 | S5=46118 | T5=46125 | U5=46132 | V5=46139 | W5=46146 | X5=46153 | Y5=46160 | Z5=46167
+A6=Main Activity | AA6=W1 | AB6=W2 | AC6=W3 | AD6=W4 | AE6=W5 | AF6=W1 | AG6=W2 | AH6=W3 | AI6=W4 | AJ6=W1 | AK6=W2 | AL6=W3 | AM6=W4 | AN6=W5 | AO6=W1 | AP6=W2 | AQ6=W3 | AR6=W4 | AS6=W1 | AT6=W2 | AU6=W3 | AV6=W4 | AW6=W1 | AX6=W2 | AY6=W3 | AZ6=W4 | B6=Sub Activity | BA6=W5 | BB6=W1 | BC6=W2 | BD6=W3 | BE6=W4 | BF6=W1 | BG6=W2 | BH6=W3 | BI6=W4 | BJ6=W1 | BK6=W2 | BL6=W3 | BM6=W4 | BN6=W1 | BO6=W2 | BP6=W3 | BQ6=W4 | C6=Duration  | D6=Role | E6=% Progress | F6=W1 | G6=W2 | H6=W3 | I6=W4 | J6=W1 | K6=W2 | L6=W3 | M6=W4 | N6=W1 | O6=W2 | P6=W3 | Q6=W4 | R6=W5 | S6=W1 | T6=W2 | U6=W3 | V6=W4 | W6=W1 | X6=W2 | Y6=W3 | Z6=W4
+A7=Gather Requirement & Design | C7=2 months | D7=DS(main), DArch
+B8=Consolidate Requirement (data requirement, KPI, etc.) | E8=0.9
+B9=Design architecture | E9=1
+B10=SOLAR + ARB | E10=0.8
+A11=[Full scale] ML model development | C11=10 months | D11=DS, ML
+B12=Prepare data, sharing and permission | E12=0.45
+B13=Model development 1 | E13=0.45
+B14=ML inference/prediction pipeline development | E14=0
+AE15=♦️ | B15=Deployment Group 1 (1-25 Wells) | E15=0
+B16=User feedback/improvement Group 1 | E16=0
+B17=Model Adjustment | E17=0
+AV18=♦️ | B18=Deployment Group 2 (26-120 Wells) | E18=0
+B19=User feedback/improvement Group 2 | E19=0
+B20=Deployment The Rest Group (121-160 Wells) | BC20=♦️ | E20=0
+B21=User feedback/improvement The Rest Group | E21=0
+A22=Integration and Handover | C22=3 months | D22=DA, DS, ML
+B23=IPOS Phase 2: Integration Support  | E23=0
+B24=Handover: Final manuals and training | BE24=♦️ | E24=0
+A25=Post-golive TBC with support team | C25=3 months | D25=OMS Support, DS
+B26=Operation Support (Tier 1, Tier 2) | E26=0
+A29=Note:
+A30=04/02/26 - SOR Highlivel Requirement latest alignment     
+A32=Original - need to revise with team
+AB34=Post Go-Live | J34=Deliverable  as of 06 Mar 2026
+AB35=Tier | AC35=Document | AH35=Support Level | J35=ML | K35=Source of data and model development
+AB36=Tier 1 | AC36=High Level | AH36=High Level | J36=DS | K36=Algorithm & Logic, Result (experiment/measurement e.g. MAPE, R2, MAE)
+AB37=Tier 2 | AC37=Technical Level | AH37=Technical Level | J37=*format document/wiki
+J39=Integration with IPOS Phase 2
+J40=Team | K40=Action | O40=Output 
+J41=S1 AI  | K41=deploy models | O41=text files on sharepoint
+J42=User | K42=validate and upload data | O42=PDMS, GCP
+J43=IPOS | K43=integrate | O43=GCP
+H81=Note: will be deleted soon
+H82=output, excel and sharepoint -> validate -> P2 -> GCP
+H83=text on sharepoint | K83=S1 Team
+H84=validate -> P2 | K84=user
+H85=GCP | K85=IPOS phase 2
+H90=post golive | L90=document
+I91=1 | J91=support | L91=slide(ml: resource), (ds: algorith)
+I92=2 | J92=ds | R92=more technical
+H95=deliverable 
+J96=slide(ml: resource), (ds: algorith, wiki model exeriment)
+I97=ds | J97=algo, logic
+J98=result (KPI R2, Mape, model performance)
+
+--- Sheet 'Project Plan (BK2)' ---
+A1=Actual | B1=0.43737864077669902 | BH1=♦️[25 Dec] Handover | C1=WIP Revise %Actual | G1=Start: | H1=46083 | I1=Start | J1=46027 | M1=Current Week | S1=Revised
+A2=Plan | AH2=♦️[30 Jun]  Group 1: 25 Wells | AY2=♦️[30 Oct]  Group 2: 26 - 120 Wells | B2=0.55799373040752354 | BF2=♦️[14 Dec]  Group 3: 121 - 160 Wells | G2=End: | H2=46383 | L2=Link:  | M2=SOR Document
+A3=*count progress to handover | BI3=Year 2027 | I3=Year 2026
+AD4=46202 | AI4=46230 | AM4=46265 | AR4=46293 | AV4=46321 | AZ4=46356 | BE4=46384 | BI4=46412 | BM4=46440 | BQ4=46468 | I4=46037 | M4=46076 | Q4=46111 | V4=46139 | Z4=46167
+A5=Project Roadmap/Timeline: As of 20 Feb 2026 | AA5=46153 | AB5=46160 | AC5=46167 | AD5=46174 | AE5=46181 | AF5=46188 | AG5=46195 | AH5=46202 | AI5=46209 | AJ5=46216 | AK5=46223 | AL5=46230 | AM5=46237 | AN5=46244 | AO5=46251 | AP5=46258 | AQ5=46265 | AR5=46272 | AS5=46279 | AT5=46286 | AU5=46293 | AV5=46300 | AW5=46307 | AX5=46314 | AY5=46321 | AZ5=46328 | BA5=46335 | BB5=46342 | BC5=46349 | BD5=46356 | BE5=46363 | BF5=46370 | BG5=46377 | BH5=46384 | BI5=46391 | BJ5=46398 | BK5=46405 | BL5=46412 | BM5=46419 | BN5=46426 | BO5=46433 | BP5=46440 | BQ5=46447 | BR5=46454 | BS5=46461 | BT5=46468 | E5=4 | I5=46027 | J5=46034 | K5=46041 | L5=46048 | M5=46055 | N5=46062 | O5=46069 | P5=46076 | Q5=46083 | R5=46090 | S5=46097 | T5=46104 | U5=46111 | V5=46118 | W5=46125 | X5=46132 | Y5=46139 | Z5=46146
+A6=Main Activity | AA6=W2 | AB6=W3 | AC6=W4 | AD6=W1 | AE6=W2 | AF6=W3 | AG6=W4 | AH6=W5 | AI6=W1 | AJ6=W2 | AK6=W3 | AL6=W4 | AM6=W1 | AN6=W2 | AO6=W3 | AP6=W4 | AQ6=W5 | AR6=W1 | AS6=W2 | AT6=W3 | AU6=W4 | AV6=W1 | AW6=W2 | AX6=W3 | AY6=W4 | AZ6=W1 | B6=Sub Activity | BA6=W2 | BB6=W3 | BC6=W4 | BD6=W5 | BE6=W1 | BF6=W2 | BG6=W3 | BH6=W4 | BI6=W1 | BJ6=W2 | BK6=W3 | BL6=W4 | BM6=W1 | BN6=W2 | BO6=W3 | BP6=W4 | BQ6=W1 | BR6=W2 | BS6=W3 | BT6=W4 | C6=Start | D6=End 1 (for calculation) | E6=End | F6=Duration  | G6=% Progress | H6=Role | I6=W1 | J6=W2 | K6=W3 | L6=W4 | M6=W1 | N6=W2 | O6=W3 | P6=W4 | Q6=W1 | R6=W2 | S6=W3 | T6=W4 | U6=W5 | V6=W1 | W6=W2 | X6=W3 | Y6=W4 | Z6=W1
+A7=Gather Requirement & Design | F7=2 months | H7=DS(main), DArch
+B8=Consolidate Requirement (data requirement, KPI, etc.) | C8=46069 | D8=46090 | E8=46094 | F8=20 | G8=1
+B9=Design architecture | C9=46097 | D9=46135 | E9=46139 | F9=10 | G9=1
+B10=SOLAR + ARB | C10=46111 | D10=46118 | E10=46122 | F10=10 | G10=1
+A11=[Full scale] ML model development | F11=10 months | H11=DS, ML
+B12=Prepare data, sharing and permission | C12=46083 | D12=46167 | E12=46171 | F12=65 | G12=0.95
+B13=Model development 1 | C13=46083 | D13=46167 | E13=46171 | F13=65 | G13=0.95
+B14=ML inference/prediction pipeline development | C14=46083 | D14=46167 | E14=46171 | F14=65 | G14=0.95
+AH15=♦️ | B15=Deployment Group 1 (1-25 Wells) | C15=46174 | D15=46202 | E15=46206 | F15=25 | G15=0
+B16=User feedback/improvement Group 1 | C16=46209 | D16=46230 | E16=46234 | F16=15 | G16=0
+B17=Model Adjustment | C17=46230 | D17=46293 | E17=46297 | F17=50 | G17=0
+AY18=♦️ | B18=Deployment Group 2 (26-120 Wells) | C18=46300 | D18=46321 | E18=46325 | F18=20 | G18=0
+B19=User feedback/improvement Group 2 | C19=46328 | D19=46342 | E19=46346 | F19=15 | G19=0
+B20=Deployment The Rest Group (121-160 Wells) | BF20=♦️ | C20=46349 | D20=46370 | E20=46374 | F20=20 | G20=0
+B21=User feedback/improvement The Rest Group | C21=46377 | D21=46384 | E21=46388 | F21=10 | G21=0
+A22=Integration and Handover | F22=3 months  | H22=DA, DS, ML
+B23=IPOS Phase 2: Integration Support  | C23=46174 | D23=46244 | E23=46248 | F23=55 | G23=0
+B24=Handover: Final manuals and training | BH24=♦️ | C24=46377 | D24=46384 | E24=46388 | F24=10 | G24=0
+A25=Post-golive TBC with support team | F25=3 months | H25=OMS Support, DS
+B26=Operation Support (Tier 1, Tier 2) | C26=46026 | D26=46102 | E26=46106 | F26=60 | G26=0
+I29=Deliverable(Overall) | N29=Ref. Task Document & Handover | V29=Post Go-Live
+AB30=Support Level | I30=ML | J30=Source of data and model development | V30=Tier | W30=Document
+AB31=High Level | I31=DS | J31=Algorithm & Logic, Result (experiment/measurement e.g. MAPE, R2, MAE) | V31=Tier 1 | W31=High Level
+AB32=Technical Level | I32=*format document/wiki | V32=Tier 2 | W32=Technical Level
+I34=Integration with IPOS Phase 2
+I35=Team | J35=Action | N35=Output 
+I36=S1 AI  | J36=deploy models | N36=text files on sharepoint
+I37=User | J37=validate and upload data | N37=PDMS, GCP
+I38=IPOS | J38=integrate | N38=GCP
+I41=Deliverable: Milestone 1 - 25 Wells 
+I42=1)  | J42=Source code deployment
+I43=2)  | J43=Excel Virtual Flow Meeting (per Well per Day)
+I45=Deliverable: Milestone 2 - 26 to 120 Wells 
+I46=1)  | J46=Source code deployment
+I47=2)  | J47=Excel Virtual Flow Meeting (per Well per Day)
+I49=Deliverable: Milestone 3 - 121 to 160 Wells (TBD) 
+I50=1)  | J50=Source code deployment
+I51=2)  | J51=Excel Virtual Flow Meeting (per Well per Day)
+I53=Note:  the user is required to test each milestone [Testing->Improvement Process]
+A55=Note:
+A56=04/02/26 - SOR Highlivel Requirement latest alignment     
+A58=Original - need to revise with team
+K107=Note: will be deleted soon
+K108=output, excel and sharepoint -> validate -> P2 -> GCP
+K109=text on sharepoint | N109=S1 Team
+K110=validate -> P2 | N110=user
+K111=GCP | N111=IPOS phase 2
+K116=post golive | O116=document
+L117=1 | M117=support | O117=slide(ml: resource), (ds: algorith)
+L118=2 | M118=ds | U118=more technical
+K121=deliverable 
+M122=slide(ml: resource), (ds: algorith, wiki model exeriment)
+L123=ds | M123=algo, logic
+M124=result (KPI R2, Mape, model performance)
+
+--- Sheet 'Risk Issue' ---
+A1=Id | B1=Issue | C1=Type | D1=Status | E1=Priority | F1=Create Date | G1=Target Date | H1=PIC (raise topic) | I1=Note (dd/mm/yy) | P1=Dropdown: | Q1=Type | R1=Priority | S1=Status
+A2=1 | B2=Set budget for upcoming wells in the future | C2=issue | D2=pending | E2=low | F2=46136 | H2=Naruedon T. | I2=24/04/26:
++ Ground work and structure already set in 2026, just add data source. Team will discuss again | Q2=issue | R2=high | S2=open
+A3=2 | B3=Initial MAPE measurement should be less than 25% (ref. SOR)  | C3=issue | D3=open | E3=low | F3=46162 | G3=46169 | H3=Chain S. | I3=20/05/26:
++ Wait for development team readiness assessment for the next weekly sync up again | Q3=risk | R3=medium | S3=in progress
+A4=3 | B4=[Note] S1 AI model development data will not affect with iPOS project as iPOS retrieves data from GCP, and already use Well test data | C4=issue | D4=close | E4=low | F4=46162 | G4=46162 | H4=Naruedon T., Parinya K. | I4=20/05/26:
++ Wait for development team readiness assessment for next weekly sync up again | Q4=risk | R4=medium | S4=pending
+A5=4 | B5=Validate model and accuracy on MAPE measurement | C5=issue | D5=open | E5=medium | F5=46169 | H5=Chain S.
+Witaya T. | S5=close
+A6=5 | B6=PDMS align format (enhance K.Kae acknowledge - to register) | C6=issue | D6=open | E6=medium | F6=46169 | G6=46295 | H6=Naruedon T. | I6=10/06/26:
++ Already discussed with involved person, and extend tentative target date to end of Jul 26
+
+18/06/26:
++ User waiting for uploading files -> Map usage Cell to P2 (PDMS) -> back to Development team.
+A7=6 | B7=Revised and combine tasks; Model development 1 and
+ML inference/prediction pipeline development to "Model Development & Prediction Pipeline" | C7=issue | D7=close | E7=medium | F7=46169 | G7=46181 | H7=Parinya K.
+A8=7 | B8=Wait for discussion
+After Testing and Estimate on 5 well and good Oil Flow:
+○ Address Outliers: values are "jumping" significantly far from reality; we need to investigate the data cleansing logic for these instances.
+○ Well Behavior Logic: We need to define which wells should decline OR sustained strength
+○ Zero-Value Investigation: Some estimates are currently returning as "0"; we need to verify if this is a sensor data issue or a model logic error.
+Mechanism Focus on Beam Pumps:
+○ Status Filtering: For training, focus on active/open status for Gas-lift wells to ensure the models aren't being skewed by "closed" well data.
+"BSW" Factor Integration:
+○ Reporting: include BSW factors are included in the final SharePoint Well Test reports. | C8=issue | D8=close | E8=high | F8=46183 | G8=46199 | H8=Nareudon T.
+Witaya T. | I8=10/06/26:
++ Wait for discussion
+
+18/06/26:
++ BSW will be fixed after fixing model.
++ Based on P2:PI Tag data, retrieving history of well test data n-1 day (n=well test date), then wait and see the result. 
+
+24/06/26:
++ already train n-1 then run new model and compare with old model -> MAPE still high on production
++ quick solution: putting assumption by well behaviror (exploring) 
+A9=8 | B9=Milestone: Well 1-25th - verify and align deliverables with team | C9=Issue | D9=open | E9=low | F9=46191 | G9=TBC | H9=Parinya K.
+A10=9 | B10=Model Logic Improve and Feedback Loop to meet MAPE < 25% | C10=Issue | D10=open | E10=low | F10=46204 | G10=TBC | H10=Team | I10=1/07/26:
+On solution discussion 
+1) Request PTTD upload history PI data 
+2) PFO2/O working on explore VFM, and sending sample data for S1 AI team to try (K.Chain) -- align with team again
+A11=10 | B11=Confirm well th 121-160 | C11=Issue | D11=open | E11=low | F11=46238 | G11=TBC | H11=Parinya K. | I11=05/08/26:
+1) focus and finalize well 1-120 before discussion the rest of well
+A12=11 | B12=Finding more approachs by talking to Weatherford | C12=Issue | D12=open | E12=high | F12=46239 | G12=TBC | H12=Naruedon T. | I12=05/08/26:
+1) wait for a session with Weatherford to analysis the approach for S1 AI project
+
+--- Sheet 'FTE Plan - revise2' ---
+C2=FTE Assessment - revise2 (post go-live: conditional sign-off follow-up)
+AA3=Oct'26 | AB3=Nov'26 | AC3=Dec'26 | AD3=Jan'27 | AE3=Feb'27 | AF3=Mar'27 | AG3=Apr'27 | E3=Position | F3=Name | I3=Vendor | J3=May'25 | K3=Jun'25 | L3=Jul'25 | M3=Aug'25 | N3=Sep'25 | O3=Oct'25 | P3=Nov'25 | Q3=Dec'25 | R3=Jan'26 | S3=Feb'26 | T3=Mar'26 | U3=Apr'26 | V3=May'26 | W3=Jun'26 | X3=Jul'26 | Y3=Aug'26 | Z3=Sep'26
+AA4=0.1 | AB4=0.1 | AC4=0.05 | AD4=0.05 | AE4=0.05 | AF4=0.05 | AG4=0.05 | E4=ITPM | F4=Parinya Kamnoed | I4=EPAM | J4=0 | K4=0 | L4=0 | M4=0 | N4=0 | O4=0 | P4=0 | Q4=0 | R4=0 | S4=0.1 | T4=0.2 | U4=0.2 | V4=0.2 | W4=0.2 | X4=0.2 | Y4=0.2 | Z4=0.15
+E6=Note: Project already go-live; FTE kept to follow up conditional sign-off until MA support ends (Apr 2027). Max FTE = 1. FTE ramps down after Aug'26 (other projects).

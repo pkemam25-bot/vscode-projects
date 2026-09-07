@@ -1,0 +1,8 @@
+# Generated Excel backups (kept locally for safety - not versioned)
+*backup*.xlsx
+
+# Local scratch/backup folder
+bk/
+
+# Python cache
+__pycache__/
